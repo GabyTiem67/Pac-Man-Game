@@ -1,0 +1,11 @@
+bin/
+*.class
+
+# Java / IDE metadata
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
